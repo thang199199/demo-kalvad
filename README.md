@@ -7,6 +7,11 @@ This project was generated with [Angular CLI] version 13.3.3.
 
 Run `npm start` after check out code. 
 
+## Install
+
+Run `npm run lint` for linting. 
+
+
 ## Development server
 
 Run `npm start` for a dev server. Navigate to `http://localhost:4200/` to open dev server.
